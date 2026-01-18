@@ -1,0 +1,7 @@
+{
+  "name": "Mero Banshawali (मेरो वंशावली)",
+  "description": "Offline Family Lineage App with Graph Relationship Logic and Tree Visualization",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
